@@ -2,7 +2,7 @@
 
 **Robotic Arm Manipulation Workspace**
 
-This workspace serves as the primary development and experimentation environment for articulated robot arms within the Intelligent Systems Knowledge Ecosystem.
+This workspace serves as the primary development and experimentation environment for articulated robot arms within the Intelligent Systems Engineering Workspace.
 
 ---
 

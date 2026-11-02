@@ -43,7 +43,7 @@ ros2_arm_kit/
 
 ```bash
 # 1. Build workspace
-cd "02 — Domains/ROS2/Ros2 learning kits/ros2_arm_kit"
+cd "03 — Projects & Experiments/ learning kits/ros2_arm_kit"
 colcon build --symlink-install
 source install/setup.bash
 
